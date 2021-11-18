@@ -1,0 +1,33 @@
+div{
+    margin: auto;
+    padding: 0%;
+}
+
+div.caja1{
+float: left;
+margin-right: 30px;
+margin-bottom: 20px;
+height: 400px;
+}
+
+div.cajaGrande{
+    margin: auto;
+    width: 100%;
+    text-align: center;
+    height: auto;
+}
+img{
+    border: solid black;
+    border-radius: 10px 40px; 
+    height: 390px;
+    width: 400px;
+}
+div.caja2{
+
+    text-align: center;
+
+}
+body{
+    background-color: blanchedalmond;
+    min-width: 100px;
+}

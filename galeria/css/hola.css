@@ -1,6 +1,8 @@
-div{
-    margin: auto;
-    padding: 0%;
+div.cajaPeque{
+    border:dotted 0.1px black;
+    border-radius: 40px;
+    text-align: center;
+
 }
 
 div.caja1{
@@ -22,11 +24,7 @@ img{
     height: 390px;
     width: 400px;
 }
-div.caja2{
 
-    text-align: center;
-
-}
 body{
     background-color: blanchedalmond;
     min-width: 100px;
